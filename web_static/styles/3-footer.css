@@ -1,16 +1,13 @@
-/*
- * === Footer style ===
- */
-/* Footer style */
+p {
+    text-align: center;
+    padding: 8px;
+}
+
 footer {
-            border-top: 1px solid #CCCCCC;
-            text-align: center;
-            background-color: #ffffff;
-            height: 60px;
-            width: 100%;
-            bottom: 0;
-            justify-content: center;
-            position: relative;
-            align-items: center;
-            display: flex;
+    background: #FFFFFF;
+    height: 70px;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    border-top: 1px solid #CCCCCC
 }
